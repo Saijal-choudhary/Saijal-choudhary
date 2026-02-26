@@ -1,4 +1,4 @@
-
+![logo](https://github.com/Saijal-choudhary/Saijal-choudhary/blob/main/Github%20Banner.png)
 <h1 align="center">Hi Everyone🌺, Welcome to my Analyst Journey✨</h1>
 <h3 align="center">📊Crafting Stories Through Data & Creativity</h3>
 </svg>
