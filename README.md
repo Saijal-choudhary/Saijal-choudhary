@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Advanced Statistical Techniques, Regression Analysis, SQL, Python, EDA and Power BI**
 
-- 📫 How to reach me **sejallchoudhary90@outlook.com**
+- 📫 How to reach me **sejallchoudhary90@gmail.com**
 
 - ⚡ Fun fact **I Love Creativity🥰**
 
